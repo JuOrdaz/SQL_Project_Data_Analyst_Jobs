@@ -181,7 +181,7 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 | gcp           | 122500     |
 | microstrategy | 121619     |
 
-*Table of the average salary for the top  paying skills for data analysts*
+*Table of the average salary for the top 25 paying skills for data analysts*
 
 ### 5. Most Optimal Skills to Learn
 
